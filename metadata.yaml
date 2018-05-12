@@ -1,0 +1,40 @@
+_repo: The-Belief-in-Immortality-and-the-Worship-of-the-Dead-Volume-1--of-3---13-The-Belief-Among-th__20116
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frazer, James George
+    aliases:
+    - Frazer, J. G. (James George)
+    - Frazer, Sir James George
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '1241'
+    url: http://www.gutenberg.org/2009/agents/1241
+    wikipedia: http://en.wikipedia.org/wiki/James_Frazer
+description: ''
+gutenberg_bookshelf:
+- Anthropology
+- Australia
+gutenberg_issued: '2006-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Religion'
+- !lcsh 'Funeral rites and ceremonies -- Oceania'
+- !lcsh 'Ancestor worship -- Oceania'
+- !lcc 'BL'
+- !lcsh 'Immortality -- Comparative studies'
+- !lcsh 'Oceania -- Social life and customs.'
+- !lcsh 'Burial'
+title: "The Belief in Immortality and the Worship of the Dead, Volume 1 (of 3)\r\n\
+  The Belief Among the Aborigines of Australia, the Torres Straits Islands, New Guinea\
+  \ and Melanesia"
+url: http://www.gutenberg.org/ebooks/20116
